@@ -1,24 +1,4 @@
 
         
         
-        .image-container {
-            width: 80%;
-            margin: auto;
-            text-align: center;
-        }
-        .green-bar {
-            background-color: green;
-            height: 20px;
-            width: 100%;
-        }
-        .blue-bar {
-            background-color: blue;
-            height: 20px;
-            width: 100%;
-        }
-        img {
-            width: 300px;
-            height: auto;
-            display: block;
-            margin: auto;
-        }
+        
